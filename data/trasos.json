@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "pasienis-7-etapas",
+      "pavadinimas": "Pasienis 7 etapas",
+      "failai": [
+        {
+          "pavadinimas": "PASIENIS 7 FINAL",
+          "kelias": "failai/pasienis-7-etapas/pasienis-7-final.gpx"
+        }
+      ]
+    },
+    {
       "id": "vievis-naktinis-2023-m-b",
       "pavadinimas": "Vievis Naktinis 2023 m B",
       "failai": [
