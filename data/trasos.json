@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "vievis-naktinis-2024-m-a-ir-b",
+      "pavadinimas": "Vievis Naktinis 2024 M. A ir B",
+      "failai": [
+        {
+          "pavadinimas": "NAKTINIS 2024 FINAL A IR B",
+          "kelias": "failai/vievis-naktinis-2024-m-a-ir-b/naktinis-2024-final-a-ir-b.gpx"
+        }
+      ]
+    },
+    {
       "id": "pasienis-7-etapas",
       "pavadinimas": "Pasienis 7 etapas",
       "failai": [
