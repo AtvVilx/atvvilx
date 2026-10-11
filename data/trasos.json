@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "pasienis-9",
+      "pavadinimas": "Pasienis 9",
+      "failai": [
+        {
+          "pavadinimas": "PASIENIS 9 FINAL 20241123",
+          "kelias": "failai/pasienis-9/pasienis-9-final-20241123.gpx"
+        }
+      ]
+    },
+    {
       "id": "titanai-ukmerge",
       "pavadinimas": "Titanai ukmerge",
       "failai": [
