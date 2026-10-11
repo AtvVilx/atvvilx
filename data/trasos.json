@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "titanai-ukmerge",
+      "pavadinimas": "Titanai ukmerge",
+      "failai": [
+        {
+          "pavadinimas": "Ukmerge170_0802",
+          "kelias": "failai/titanai-ukmerge/ukmerge170_0802.gpx"
+        }
+      ]
+    },
+    {
       "id": "pasienis-8",
       "pavadinimas": "Pasienis 8",
       "failai": [
