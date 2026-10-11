@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "elektrenai-2025-m",
+      "pavadinimas": "Elektrenai 2025 m.",
+      "failai": [
+        {
+          "pavadinimas": "NAKTINIS 2025 final",
+          "kelias": "failai/elektrenai-2025-m/naktinis-2025-final.gpx"
+        }
+      ]
+    },
+    {
       "id": "technika-4",
       "pavadinimas": "Technika 4",
       "failai": [
