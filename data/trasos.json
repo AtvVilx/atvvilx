@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "technika-4",
+      "pavadinimas": "Technika 4",
+      "failai": [
+        {
+          "pavadinimas": "TECHNIKA 4 FINAL (1)",
+          "kelias": "failai/technika-4/technika-4-final-1.gpx"
+        }
+      ]
+    },
+    {
       "id": "technika-3",
       "pavadinimas": "Technika 3",
       "failai": [
