@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "pasienis-14",
+      "pavadinimas": "Pasienis 14",
+      "failai": [
+        {
+          "pavadinimas": "Pasienis 14 FINAL",
+          "kelias": "failai/pasienis-14/pasienis-14-final.gpx"
+        }
+      ]
+    },
+    {
       "id": "pasienis-12",
       "pavadinimas": "Pasienis 12",
       "failai": [
