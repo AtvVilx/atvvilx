@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "vievis-naktinis-2023-m-b",
+      "pavadinimas": "Vievis Naktinis 2023 m B",
+      "failai": [
+        {
+          "pavadinimas": "NAKTINIS 2023 B",
+          "kelias": "failai/vievis-naktinis-2023-m-b/naktinis-2023-b.gpx"
+        }
+      ]
+    },
+    {
       "id": "vievis-naktinis-2023-m",
       "pavadinimas": "Vievis Naktinis 2023 m.",
       "failai": [
