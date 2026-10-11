@@ -1,7 +1,17 @@
 {
   "pavadinimas": "Mūsų trasos",
-  "atnaujinta": "2026-10-04",
+  "atnaujinta": "2026-10-11",
   "trasos": [
+    {
+      "id": "vievis-naktinis-2023-m",
+      "pavadinimas": "Vievis Naktinis 2023 m.",
+      "failai": [
+        {
+          "pavadinimas": "NAKTINIS 2023 A",
+          "kelias": "failai/vievis-naktinis-2023-m/naktinis-2023-a.gpx"
+        }
+      ]
+    },
     {
       "id": "vilnius-trakai-2",
       "pavadinimas": "Vilnius - Trakai",
