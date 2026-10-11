@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "pasienis-8",
+      "pavadinimas": "Pasienis 8",
+      "failai": [
+        {
+          "pavadinimas": "PASIENIS 8 FINAL 10.08",
+          "kelias": "failai/pasienis-8/pasienis-8-final-10-08.gpx"
+        }
+      ]
+    },
+    {
       "id": "vievis-naktinis-2024-m-a-ir-b",
       "pavadinimas": "Vievis Naktinis 2024 M. A ir B",
       "failai": [
