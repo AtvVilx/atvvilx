@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "technika-5",
+      "pavadinimas": "Technika 5",
+      "failai": [
+        {
+          "pavadinimas": "Technikas 5 FINAL",
+          "kelias": "failai/technika-5/technikas-5-final.gpx"
+        }
+      ]
+    },
+    {
       "id": "elektrenai-2025-m",
       "pavadinimas": "Elektrenai 2025 m.",
       "failai": [
