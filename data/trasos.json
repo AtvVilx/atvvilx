@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "technika-7",
+      "pavadinimas": "Technika 7",
+      "failai": [
+        {
+          "pavadinimas": "SENOJI TECHNIKA 7 ERZVLIKAS (1)",
+          "kelias": "failai/technika-7/senoji-technika-7-erzvlikas-1.gpx"
+        }
+      ]
+    },
+    {
       "id": "technika-6",
       "pavadinimas": "Technika 6",
       "failai": [
