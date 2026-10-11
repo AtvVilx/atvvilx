@@ -3,6 +3,16 @@
   "atnaujinta": "2026-10-11",
   "trasos": [
     {
+      "id": "titanai-2025",
+      "pavadinimas": "Titanai 2025",
+      "failai": [
+        {
+          "pavadinimas": "Titanai_turas251108",
+          "kelias": "failai/titanai-2025/titanai_turas251108.gpx"
+        }
+      ]
+    },
+    {
       "id": "technika-7",
       "pavadinimas": "Technika 7",
       "failai": [
