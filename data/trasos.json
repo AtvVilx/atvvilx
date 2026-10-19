@@ -1,7 +1,17 @@
 {
   "pavadinimas": "Mūsų trasos",
-  "atnaujinta": "2026-10-11",
+  "atnaujinta": "2026-10-19",
   "trasos": [
+    {
+      "id": "vilnius-salcininkai-su-purvo-vonia",
+      "pavadinimas": "Vilnius Salcininkai (su purvo vonia)",
+      "failai": [
+        {
+          "pavadinimas": "vilnius salcininkai",
+          "kelias": "failai/vilnius-salcininkai-su-purvo-vonia/vilnius-salcininkai.gpx"
+        }
+      ]
+    },
     {
       "id": "titanai-2025",
       "pavadinimas": "Titanai 2025",
