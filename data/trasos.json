@@ -1,7 +1,17 @@
 {
   "pavadinimas": "Mūsų trasos",
-  "atnaujinta": "2026-10-19",
+  "atnaujinta": "2026-11-05",
   "trasos": [
+    {
+      "id": "pakruojis-20261107",
+      "pavadinimas": "Pakruojis 20261107",
+      "failai": [
+        {
+          "pavadinimas": "TECHNIKA CIKLAS 2 1 ETAPAS FINAL",
+          "kelias": "failai/pakruojis-20261107/technika-ciklas-2-1-etapas-final.gpx"
+        }
+      ]
+    },
     {
       "id": "vilnius-salcininkai-su-purvo-vonia",
       "pavadinimas": "Vilnius Salcininkai (su purvo vonia)",
