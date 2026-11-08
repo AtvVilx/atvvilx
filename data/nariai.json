@@ -15,7 +15,9 @@
       "pavarde": "Zarauskas",
       "tipas": "narys",
       "maikes_info": "005",
-      "technika": "Cf g3 1000"
+      "technika": "Cf g3 1000",
+      "maikes_dydis": "XL",
+      "foto": "failai/nariai/eidmantas-zarauskas/1000019134.jpg"
     },
     {
       "id": "akvile-bukenaite",
@@ -25,5 +27,5 @@
       "maikes_info": "015"
     }
   ],
-  "atnaujinta": "2026-11-07"
+  "atnaujinta": "2026-11-08"
 }
