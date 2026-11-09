@@ -7,7 +7,8 @@
       "tipas": "narys",
       "maikes_dydis": "XL",
       "maikes_info": "222",
-      "technika": "Cf moto 1000 G3"
+      "technika": "Cf moto 1000 G3",
+      "foto": "failai/nariai/arturas-kucejevas/6122.jpg"
     },
     {
       "id": "eidmantas-zarauskas",
@@ -27,5 +28,5 @@
       "maikes_info": "015"
     }
   ],
-  "atnaujinta": "2026-11-08"
+  "atnaujinta": "2026-11-09"
 }
